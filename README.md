@@ -3,7 +3,8 @@
 </br>I'm interested in development usefull web/mobile apps.
 
 # My Tech Stack (so far..)
-![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 <details>
   <summary>Github Stats ⚡</summary>
