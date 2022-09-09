@@ -1,5 +1,5 @@
 # Hey There! 👋
-**I'm Vaggelis** - I'm a fullstack developer based in Athens,Greece.
+**I'm Vaggelis** - I'm a fullstack web developer based in Athens,Greece.
 </br>I'm interested in development usefull web/mobile apps.
 
 # My Tech Stack (so far..)
