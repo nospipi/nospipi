@@ -1,5 +1,6 @@
 # Hey There! 👋
-**I'm Thijs (he/they)** - I'm a fullstack developer, designer, moderator, and high school student based in the bay area. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
+**I'm Vaggelis** - I'm a fullstack developer based in Athens,Greecce.
+I'm interested in development usefull web/mobile apps.
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,html,css,nodejs,express,electron,react,bootstrap)](https://skillicons.dev)<br/>
 
