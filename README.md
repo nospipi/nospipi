@@ -2,7 +2,8 @@
 **I'm Vaggelis** - I'm a fullstack developer based in Athens,Greecce.
 </br>I'm interested in development usefull web/mobile apps.
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,nodejs,express,electron,react,bootstrap)](https://skillicons.dev)<br/>
+** My tech stack (so far..)
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 
 
 <details>
