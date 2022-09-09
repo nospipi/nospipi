@@ -1,6 +1,6 @@
 # Hey There! 👋
 **I'm Vaggelis** - I'm a fullstack developer based in Athens,Greecce.
-I'm interested in development usefull web/mobile apps.
+</br>I'm interested in development usefull web/mobile apps.
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,html,css,nodejs,express,electron,react,bootstrap)](https://skillicons.dev)<br/>
 
