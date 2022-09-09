@@ -24,7 +24,7 @@
 ![]() 
 -->
 
-# My work :arrow_lower_right: :arrow_lower_right: :arrow_lower_right: :arrow_lower_right: :arrow_lower_right: :arrow_lower_right: :arrow_lower_right:
+# My work :arrow_lower_right: 
 
 <!-- <details>
   <summary>Github Stats ⚡</summary> -->
