@@ -1,5 +1,5 @@
 # Hey There! 👋
-**I'm Vaggelis and i love creating software and learning new technologies
+** I'm Vaggelis and i love creating software and learning new technologies
 
 # My Tech Stack
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
