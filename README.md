@@ -1,6 +1,5 @@
 # Hey There! 👋
-**I'm Vaggelis** - a fullstack web developer based in Athens,Greece.
-</br>I'm interested in developing usefull web/mobile apps.
+**I'm Vaggelis and i love creating software and learning new technologies
 
 # My Tech Stack
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
